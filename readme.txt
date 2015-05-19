@@ -1,5 +1,4 @@
 CHANGE ON BR1
-SECOND EDIT
 === Simple Brightcove Player Embed ===
 Contributors: mister-ben
 Tags: brightcove, video, embed, player
